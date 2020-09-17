@@ -1,7 +1,7 @@
 # primerParcial_12GrupodeAccion
 Grupo 12
-José Bocci
-Agustina Guidone
+José Bocci Legajo 112946
+Agustina Guidone Legajo 112947
 
 1. ¿Qué diferencia hay entre un error de sintaxis y un error de lógica (falla)?
 
