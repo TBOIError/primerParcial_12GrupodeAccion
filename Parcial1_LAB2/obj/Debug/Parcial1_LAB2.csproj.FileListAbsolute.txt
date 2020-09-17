@@ -1,0 +1,14 @@
+C:\Users\jose\source\repos\Parcial1_LAB2\bin\Debug\Parcial1_LAB2.exe.config
+C:\Users\jose\source\repos\Parcial1_LAB2\bin\Debug\Parcial1_LAB2.exe
+C:\Users\jose\source\repos\Parcial1_LAB2\bin\Debug\Parcial1_LAB2.pdb
+C:\Users\jose\source\repos\Parcial1_LAB2\obj\Debug\Parcial1_LAB2.csprojAssemblyReference.cache
+C:\Users\jose\source\repos\Parcial1_LAB2\obj\Debug\Parcial1_LAB2.csproj.CoreCompileInputs.cache
+C:\Users\jose\source\repos\Parcial1_LAB2\obj\Debug\Parcial1_LAB2.exe
+C:\Users\jose\source\repos\Parcial1_LAB2\obj\Debug\Parcial1_LAB2.pdb
+C:\Users\jose\Desktop\primerParcial_12GrupodeAccion\Parcial1_LAB2\bin\Debug\Parcial1_LAB2.exe.config
+C:\Users\jose\Desktop\primerParcial_12GrupodeAccion\Parcial1_LAB2\bin\Debug\Parcial1_LAB2.exe
+C:\Users\jose\Desktop\primerParcial_12GrupodeAccion\Parcial1_LAB2\bin\Debug\Parcial1_LAB2.pdb
+C:\Users\jose\Desktop\primerParcial_12GrupodeAccion\Parcial1_LAB2\obj\Debug\Parcial1_LAB2.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\primerParcial_12GrupodeAccion\Parcial1_LAB2\obj\Debug\Parcial1_LAB2.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\primerParcial_12GrupodeAccion\Parcial1_LAB2\obj\Debug\Parcial1_LAB2.exe
+C:\Users\jose\Desktop\primerParcial_12GrupodeAccion\Parcial1_LAB2\obj\Debug\Parcial1_LAB2.pdb
